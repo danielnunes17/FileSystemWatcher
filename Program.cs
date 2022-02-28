@@ -12,7 +12,7 @@ Console.ReadLine();
 
 void OnCreated(object sender, FileSystemEventArgs e)
 {
-     Console.WriteLine($"O arquivo foi ciado{e.Name}");
+     Console.WriteLine($"O arquivo foi criado{e.Name}");
 }
 
 void OnDeleted(object sender, FileSystemEventArgs e)
