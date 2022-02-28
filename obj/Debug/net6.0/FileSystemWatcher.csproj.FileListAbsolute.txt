@@ -1,0 +1,15 @@
+C:\Work\C#\streams\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.exe
+C:\Work\C#\streams\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.deps.json
+C:\Work\C#\streams\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.runtimeconfig.json
+C:\Work\C#\streams\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.dll
+C:\Work\C#\streams\FileSystemWatcher\bin\Debug\net6.0\ref\FileSystemWatcher.dll
+C:\Work\C#\streams\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.pdb
+C:\Work\C#\streams\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Work\C#\streams\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\streams\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\Work\C#\streams\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfo.cs
+C:\Work\C#\streams\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Work\C#\streams\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.dll
+C:\Work\C#\streams\FileSystemWatcher\obj\Debug\net6.0\ref\FileSystemWatcher.dll
+C:\Work\C#\streams\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.pdb
+C:\Work\C#\streams\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.genruntimeconfig.cache
